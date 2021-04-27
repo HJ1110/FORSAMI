@@ -1,3 +1,4 @@
+# HOW TO CREATE SHINCHAN WITH HELP OF PYTHON
 from turtle import *
 # import time
 s = Screen()
